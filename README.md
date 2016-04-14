@@ -1,6 +1,6 @@
 # geolocation-omeka-exporter
 
-Some scripts for customization the exportation of geolocation plugin data from Omeka
+Some scripts for customice the exportation of geolocation plugin data from Omeka
 
 The idea is begin with this scripts and progressivelly build a plugin for Omeka that be able to export the data from geolocation plugin map in a customized way.
 
