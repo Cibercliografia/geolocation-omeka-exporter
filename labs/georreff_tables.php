@@ -1,8 +1,8 @@
 <?php
-$servername = "localhost";
-$username = "root";
-$password = "cjid1424";
-$dbname = "fichero";
+$servername = "xxxxx";
+$username = "xxxxx";
+$password = "xxxxx";
+$dbname = "xxxxx";
 
 echo "<table style='border: solid 1px black;'>";
   echo "<tr><th></th><th></th><th>Latitud</th><th>Longitud</th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th>Título</th></tr>";
